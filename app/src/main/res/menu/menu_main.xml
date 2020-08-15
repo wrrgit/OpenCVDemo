@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/Canny"
+        android:title="Canny"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Harris"
+        android:title="Harris"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Hough"
+        android:title="Hough"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Hough2"
+        android:title="Hough2"
+        app:showAsAction="never"
+        />
+</menu>
